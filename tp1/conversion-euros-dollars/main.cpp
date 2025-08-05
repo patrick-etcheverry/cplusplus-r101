@@ -3,7 +3,7 @@
  But :  Convertit en dollars une somme en euros entrée au clavier
  Date de dernière modification : 25 août 2015
  Auteur : P. Etcheverry
- Remarques : Code conforme aux spécification internes données en cours
+ Remarques : Le taux de conversion utilisé mériterait d'être actualisé
 */
 
 #include <iostream>
